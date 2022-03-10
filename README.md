@@ -75,7 +75,7 @@ A dataset of all events on the calendars of all our users.
 
 # Notes
 
-- Feel free to use whatever language you feel most comfortable working with
+- Please implement solution using Ruby
 - Please provide instructions for execution of your program
 - Please include a description of your approach to the problem, as well as any documentation about
   key parts of your code.
